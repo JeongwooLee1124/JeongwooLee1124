@@ -1,4 +1,4 @@
-### Hi there 👋
+### JeongWoo Lee 👋
 
 <!--
 **JeongwooLee1124/JeongwooLee1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
