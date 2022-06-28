@@ -1,5 +1,13 @@
 ### JeongWoo Lee 👋
 
+##### Education
+* B.S. Student in Business Analytics and Statistics at Kookmin University
+* M.S. Student in Applied Artificial Intelligence at Sungkyunkwan University
+
+##### I'm Interested in
+* ```AI```, ```HCI```, ```Computer Vision```, ```Vision-Language Multimodal```
+
+
 <!--
 **JeongwooLee1124/JeongwooLee1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
