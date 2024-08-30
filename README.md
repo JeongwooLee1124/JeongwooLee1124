@@ -5,7 +5,7 @@
 * M.S. Student in Applied Artificial Intelligence at Sungkyunkwan University
 
 ##### I'm Interested in
-* ```AI```, ```Human AI Interaction```, ```Computer Vision```, ```Vision-Language Multimodal```
+* ```AI```, ```Human AI Interaction```, ```AI Agent```, ```Large Language Model```
 
 
 <!--
